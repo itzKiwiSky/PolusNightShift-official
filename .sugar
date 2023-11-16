@@ -1,0 +1,21 @@
+{
+    "dependencies": [
+        "g3d",
+        "camera",
+        "gamestate",
+        "loveconsole",
+        "timer",
+        "json",
+        "lip",
+        "nativefs",
+        "xml",
+        "suit",
+        "gspot",
+        "bump",
+        "moonshine",
+        "collision",
+        "object"
+    ],
+    "name": "Polus",
+    "version": "0.0.1"
+}

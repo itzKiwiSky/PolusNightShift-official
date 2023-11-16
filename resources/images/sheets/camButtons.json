@@ -1,0 +1,315 @@
+{
+  "frames": [
+    {
+      "filename": "cambtn5.png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 91,
+        "h": 52
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cambtn4.png",
+      "frame": {
+        "x": 0,
+        "y": 52,
+        "w": 90,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cambtn2.png",
+      "frame": {
+        "x": 90,
+        "y": 52,
+        "w": 90,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cambtn2_active.png",
+      "frame": {
+        "x": 91,
+        "y": 0,
+        "w": 90,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 52
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cambtn3.png",
+      "frame": {
+        "x": 0,
+        "y": 105,
+        "w": 90,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cambtn3_active.png",
+      "frame": {
+        "x": 90,
+        "y": 105,
+        "w": 90,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 52
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cambtn1_active.png",
+      "frame": {
+        "x": 0,
+        "y": 158,
+        "w": 90,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 52
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cambtn4_active.png",
+      "frame": {
+        "x": 90,
+        "y": 157,
+        "w": 90,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 52
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cambtn1.png",
+      "frame": {
+        "x": 181,
+        "y": 0,
+        "w": 90,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cambtn5_active.png",
+      "frame": {
+        "x": 180,
+        "y": 53,
+        "w": 90,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 52
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cambtn6.png",
+      "frame": {
+        "x": 180,
+        "y": 105,
+        "w": 90,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cambtn6_active.png",
+      "frame": {
+        "x": 180,
+        "y": 158,
+        "w": 90,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 52
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "camButtons.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 271,
+      "h": 210
+    },
+    "scale": 1
+  }
+}

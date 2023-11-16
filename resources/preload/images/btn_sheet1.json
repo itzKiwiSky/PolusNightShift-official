@@ -1,0 +1,115 @@
+{
+  "frames": [
+    {
+      "filename": "continue.PNG",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1280,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1280,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "continue_hovered.PNG",
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "w": 1280,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1280,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "newgame.PNG",
+      "frame": {
+        "x": 0,
+        "y": 1024,
+        "w": 1024,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "newgame_hovered.PNG",
+      "frame": {
+        "x": 0,
+        "y": 1536,
+        "w": 1024,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "btn_sheet1.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1280,
+      "h": 2048
+    },
+    "scale": 1
+  }
+}
